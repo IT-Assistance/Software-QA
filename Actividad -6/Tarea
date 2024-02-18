@@ -1,0 +1,56 @@
+Tarea de Entrega: Diseño y Implementación de Pruebas Unitarias
+
+Objetivo:
+
+En esta tarea, los estudiantes deberán aplicar sus conocimientos sobre pruebas unitarias al diseñar e implementar pruebas para casos de uso específicos en el caso de estudio seleccionado. Además, se les pedirá cargar las pruebas unitarias en su repositorio de Git.
+
+
+
+Instrucciones:
+
+Revisión de Casos de Uso:
+
+Revise detenidamente los casos de uso previamente establecidos para el caso de estudio seleccionado.
+Asegúrese de comprender los requisitos y funcionalidades específicas que deben cubrirse con las pruebas unitarias.
+
+
+Diseño de Pruebas Unitarias:
+
+Diseñe pruebas unitarias para al menos dos casos de uso identificados.
+Asegúrese de que las pruebas cubran diferentes caminos y condiciones posibles, garantizando una cobertura adecuada.
+Enfóquese en asegurar la funcionalidad correcta y la detección de posibles errores.
+
+
+Implementación en un Repositorio de Git:
+
+Implemente las pruebas unitarias en un entorno de desarrollo.
+Escriba las pruebas utilizando un marco de pruebas unitarias adecuado (por ejemplo, JUnit para Java, pytest para Python).
+Suba las pruebas unitarias al repositorio de Git del proyecto.
+
+
+Documentación:
+
+Incluya una breve documentación que describa el propósito de cada prueba unitaria y cómo se relaciona con los casos de uso correspondientes.
+
+
+Entrega:
+
+Asegúrese de que las pruebas unitarias estén correctamente cargadas en el repositorio de Git.
+Proporcione cualquier instrucción adicional necesaria para revisar las pruebas.
+Suba un video indicando el funcionamiento de las pruebas y explicando lo realizado
+
+
+Evaluación:
+
+Diseño de Pruebas (1 puntos):
+
+Cobertura adecuada de los casos de uso.
+Consideración de diferentes caminos y condiciones.
+Implementación (2 puntos):
+
+Correcta implementación de pruebas unitarias utilizando el marco seleccionado.
+Subida exitosa al repositorio de Git.
+Documentación (2 punto):
+
+Claridad en la documentación sobre el propósito de las pruebas y su relación con los casos de uso.
+Nota Final: 5 puntos
